@@ -1,0 +1,9 @@
+GAS LISTING getChar.s 			page 1
+
+
+DEFINED SYMBOLS
+           getChar.s:5      .text:0000000000000000 main
+           getChar.s:13     .text:0000000000000018 while
+           getChar.s:17     .text:000000000000002c endw
+
+NO UNDEFINED SYMBOLS
