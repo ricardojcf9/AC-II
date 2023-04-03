@@ -1,0 +1,15 @@
+GAS LISTING cnt.s 			page 1
+
+
+DEFINED SYMBOLS
+               cnt.s:1      *ABS*:000000000000000c resetCoreTimer
+               cnt.s:2      *ABS*:000000000000000b readCoreTimer
+               cnt.s:3      *ABS*:0000000000000003 putChar
+               cnt.s:4      *ABS*:0000000000000006 printInt
+               cnt.s:14     .text:0000000000000000 main
+               cnt.s:24     .text:0000000000000020 while
+               cnt.s:73     .text:00000000000000d8 delay
+               cnt.s:84     .text:0000000000000104 endFor
+               cnt.s:78     .text:00000000000000e8 while2
+
+NO UNDEFINED SYMBOLS

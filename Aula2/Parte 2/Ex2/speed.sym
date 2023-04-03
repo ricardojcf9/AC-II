@@ -1,0 +1,18 @@
+GAS LISTING speed.s 			page 1
+
+
+DEFINED SYMBOLS
+             speed.s:1      *ABS*:000000000000000c resetCoreTimer
+             speed.s:2      *ABS*:000000000000000b readCoreTimer
+             speed.s:3      *ABS*:0000000000000003 putChar
+             speed.s:4      *ABS*:0000000000000006 printInt
+             speed.s:5      *ABS*:0000000000000001 inkey
+             speed.s:16     .text:0000000000000000 main
+             speed.s:28     .text:0000000000000028 while
+             speed.s:89     .text:000000000000010c delay
+             speed.s:37     .text:0000000000000048 else
+             speed.s:42     .text:0000000000000058 endif
+             speed.s:100    .text:0000000000000138 endFor
+             speed.s:94     .text:000000000000011c while2
+
+NO UNDEFINED SYMBOLS
