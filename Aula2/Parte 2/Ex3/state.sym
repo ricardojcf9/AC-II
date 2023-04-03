@@ -1,0 +1,20 @@
+GAS LISTING state.s 			page 1
+
+
+DEFINED SYMBOLS
+             state.s:1      *ABS*:000000000000000c resetCoreTimer
+             state.s:2      *ABS*:000000000000000b readCoreTimer
+             state.s:3      *ABS*:0000000000000003 putChar
+             state.s:4      *ABS*:0000000000000006 printInt
+             state.s:5      *ABS*:0000000000000001 inkey
+             state.s:17     .text:0000000000000000 main
+             state.s:30     .text:000000000000002c while
+             state.s:99     .text:000000000000013c delay
+             state.s:39     .text:000000000000004c else
+             state.s:42     .text:000000000000005c else2
+             state.s:45     .text:000000000000006c else3
+             state.s:50     .text:000000000000007c endif
+             state.s:110    .text:0000000000000168 endFor
+             state.s:104    .text:000000000000014c while2
+
+NO UNDEFINED SYMBOLS
