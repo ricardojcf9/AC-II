@@ -1,0 +1,18 @@
+GAS LISTING ex2.s 			page 1
+
+
+DEFINED SYMBOLS
+               ex2.s:2      *ABS*:000000000000bf88 SFR_BASE_HI
+               ex2.s:3      *ABS*:0000000000006100 TRISE
+               ex2.s:4      *ABS*:0000000000006120 LATE
+               ex2.s:9      .text:0000000000000000 main
+               ex2.s:16     .text:0000000000000010 while
+               ex2.s:20     .text:0000000000000018 if
+               ex2.s:29     .text:0000000000000038 if2
+               ex2.s:38     .text:0000000000000058 if3
+               ex2.s:47     .text:0000000000000078 if4
+               ex2.s:56     .text:0000000000000098 else
+               ex2.s:66     .text:00000000000000b8 delay
+               ex2.s:70     .text:00000000000000cc loop
+
+NO UNDEFINED SYMBOLS

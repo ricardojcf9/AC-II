@@ -1,0 +1,15 @@
+GAS LISTING ex1b.s 			page 1
+
+
+DEFINED SYMBOLS
+              ex1b.s:2      *ABS*:000000000000bf88 SFR_BASE_HI
+              ex1b.s:3      *ABS*:0000000000006040 TRISB
+              ex1b.s:4      *ABS*:0000000000006100 TRISE
+              ex1b.s:5      *ABS*:0000000000006050 PORTB
+              ex1b.s:6      *ABS*:0000000000006120 LATE
+              ex1b.s:10     .text:0000000000000000 main
+              ex1b.s:23     .text:000000000000001c while
+              ex1b.s:27     .text:0000000000000028 while2
+              ex1b.s:36     .text:000000000000004c endw2
+
+NO UNDEFINED SYMBOLS
