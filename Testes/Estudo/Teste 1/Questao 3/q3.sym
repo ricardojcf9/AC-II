@@ -1,0 +1,18 @@
+GAS LISTING q3.s 			page 1
+
+
+DEFINED SYMBOLS
+                q3.s:2      *ABS*:000000000000bf88 SFR_BASE_HI
+                q3.s:3      *ABS*:0000000000006100 TRISE
+                q3.s:4      *ABS*:0000000000006120 LATE
+                q3.s:5      *ABS*:000000000000000c resetCoreTimer
+                q3.s:6      *ABS*:000000000000000b readCoreTimer
+                q3.s:10     .text:0000000000000000 main
+                q3.s:19     .text:0000000000000014 loop
+                q3.s:58     .text:000000000000009c endfor
+                q3.s:45     .text:0000000000000070 delay
+                q3.s:39     .text:0000000000000060 if
+                q3.s:47     .text:0000000000000070 for
+                q3.s:51     .text:0000000000000080 while
+
+NO UNDEFINED SYMBOLS

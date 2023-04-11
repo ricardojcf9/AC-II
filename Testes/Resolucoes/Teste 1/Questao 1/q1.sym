@@ -1,0 +1,26 @@
+GAS LISTING q1.s 			page 1
+
+
+DEFINED SYMBOLS
+                q1.s:1      *ABS*:000000000000bf88 INICIAL
+                q1.s:2      *ABS*:0000000000006100 TRISE
+                q1.s:3      *ABS*:0000000000006040 TRISB
+                q1.s:4      *ABS*:0000000000006110 PORTE
+                q1.s:5      *ABS*:0000000000006050 PORTB
+                q1.s:6      *ABS*:0000000000006120 LATE
+                q1.s:7      *ABS*:0000000000006060 LATB
+                q1.s:8      *ABS*:00000000000060c0 TRISD
+                q1.s:9      *ABS*:00000000000060d0 PORTD
+                q1.s:10     *ABS*:000000000000000b READ_CORE_TIMER
+                q1.s:11     *ABS*:000000000000000c RESET_CORE_TIMER
+                q1.s:12     *ABS*:0000000000000007 printInt10
+                q1.s:13     *ABS*:0000000000000006 printInt
+                q1.s:14     *ABS*:0000000000000003 putChar
+                q1.s:19     .text:0000000000000000 main
+                q1.s:42     .text:0000000000000044 loop
+                q1.s:104    .text:00000000000000d8 delay
+                q1.s:88     .text:00000000000000b8 endprog
+                q1.s:108    .text:00000000000000ec loop2
+                q1.s:113    .text:0000000000000100 enddelay
+
+NO UNDEFINED SYMBOLS
